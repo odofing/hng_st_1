@@ -9,7 +9,7 @@ function App() {
     <>
 
       <div className="mt-5">
-        <a style={{ color: 'black', fontSize: '25px', marginLeft: '80%' }} href='#'>
+        <a style={{ color: 'black', fontSize: '25px', marginLeft: '80%' }} href='https://internship.zuri.team/'>
           <FaShare />{' '}</a>
         <div className='d-flex justify-content-center'>
           <img src={Me} alt="Me" style={{ width: '180px', borderRadius: '60px' }} />
@@ -44,7 +44,7 @@ function App() {
 
         </div>
         <div className='d-flex justify-content-center mb-5 mt-3'>
-          <a style={{ color: 'black', fontSize: '25px', marginRight: '15px' }} href='#'>
+          <a style={{ color: 'black', fontSize: '25px', marginRight: '15px' }} href='https://internship.zuri.team/'>
             <AiOutlineSlack />{' '}</a>
           <a style={{ color: 'black', fontSize: '25px' }} href='https://github.com/odofing' rel='noopener noreferrer'
             target='_blank'
