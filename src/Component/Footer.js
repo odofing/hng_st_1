@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <>
 
-            <div className='d-flex justify-content-between m-auto'>
+            <div className='d-flex justify-content-between m-auto col-sm-4 col-lg-12'>
                 <img src={ZuriLogo} alt='ing' />
                 <h5>HNG Internship 9 Frontend Task</h5>
                 <img src={Ing} alt='zuri' />
